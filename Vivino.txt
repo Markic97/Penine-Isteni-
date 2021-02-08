@@ -1,0 +1,9 @@
+Name|Price (EUR)|Volume (L)|Quantity|Inventrory count
+Isteniè Gournet Rose 2016 Rose|15.00|0,75|1|6000
+Isteniè No.1 brut |15.00|0,75|1|10000
+Isteniè Prestige 2013|18.00|0,75|1|2000
+Isteniè Barbara  |11.00|0,75|1|30000
+Isteniè Rare 2018|30.00|0,75|1|3500
+Isteniè Passion 2009|54.00|0,75|1|500
+Isteniè Desiree |12.00|0,75|1|50000
+Isteniè Desiree Red|12.00|0,75|1|2000
